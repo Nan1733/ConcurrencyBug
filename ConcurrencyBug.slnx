@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConcurrencyBug/ConcurrencyBug.csproj" Id="a30fa270-549f-4656-900f-feca5e120475" />
+  <Project Path="ConcurrencyBugNET10/ConcurrencyBugNET10.csproj" />
+  <Project Path="ConcurrencyBugNET6/ConcurrencyBugNET6.csproj" Id="4d28c474-d0ed-46ce-96ca-afd471640187" />
+  <Project Path="ConcurrencyBugNET8/ConcurrencyBugNET8.csproj" />
+</Solution>

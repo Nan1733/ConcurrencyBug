@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ConcurrencyBugNET10": {
+      "commandName": "Project"
+    }
+  }
+}
